@@ -1,0 +1,16 @@
+[
+    {
+        "anFabricatie":"int,1990,2023",
+        "nrKm":"int,0,1000000",
+        "itpValid":"boolean",
+        "marca":"make",
+        "varsta":"int,0,30",
+        "culoare":"colors",
+        "capacitateMotor":"array,1.5,1.7,1.0,2.0,3.0",
+        "nrLocuri":"int,1,50",
+        "tipCombustibil":"combustibil",
+        "model":"nested,marca,model",
+        "timpIncarcare":"nested,tipCombustibil,incarcare"
+    }
+]
+

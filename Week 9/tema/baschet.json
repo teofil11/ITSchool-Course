@@ -1,0 +1,19 @@
+{
+    "Jucatori": [
+        {
+        "nume": "Jhon Doe",
+        "inaltime": 192,
+        "cosuri_marcate": 25
+        },
+        {
+        "nume": "Jane Smith",
+        "inaltime": 178,
+        "cosuri_marcate": 19
+        }
+    ],
+    "Echipa": {
+    "nume": "Los Angeles Lakers",
+    "numar_puncte": 75,
+    "buget": 10000000
+    }
+}

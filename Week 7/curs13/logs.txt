@@ -1,0 +1,12 @@
+2023-04-10 20:12:52.259764: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:28.086771: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:28.809709: Utilizatorul a ales optiunea 2
+2023-04-10 20:13:29.605539: Utilizatorul a ales optiunea 3
+2023-04-10 20:13:30.377146: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:30.986899: Utilizatorul a ales optiunea 2
+2023-04-10 20:13:31.538933: Utilizatorul a ales optiunea 3
+2023-04-10 20:13:32.122605: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:32.529883: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:32.960954: Utilizatorul a ales optiunea 1
+2023-04-10 20:13:34.254886: Utilizatorul a plecat
+2023-04-10 20:13:53.614402: Utilizatorul a plecat

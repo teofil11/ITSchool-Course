@@ -1,0 +1,14 @@
+[
+    {
+    "marca":"Dacia",
+    "detail":["Sandero","Logan","Duster"]
+    },
+    {
+    "marca":"Audi",
+    "detail":["A1","A2","A5","Q5"]
+    },
+    {
+    "marca":"Ford",
+    "detail":["Mondeo","Puma","Kuga","Fiesta"]   
+    }
+]

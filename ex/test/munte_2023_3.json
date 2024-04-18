@@ -1,0 +1,17 @@
+[
+    {
+        "Nume": "dan",
+        "Varsta": "43",
+        "Salariu": "4300"
+    },
+    {
+        "Nume": "ion",
+        "Varsta": "34",
+        "Salariu": "5300"
+    },
+    {
+        "Nume": "ilie",
+        "Varsta": "32",
+        "Salariu": "3100"
+    }
+]

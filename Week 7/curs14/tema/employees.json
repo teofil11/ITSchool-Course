@@ -1,0 +1,41 @@
+{
+    "employees": [
+      {
+        "name": "John Doe",
+        "title": "Manager",
+        "department": "Sales",
+        "salary": 75000
+      },
+      {
+        "name": "Jane Smith",
+        "title": "Engineer",
+        "department": "IT",
+        "salary": 90000,
+        "skills": ["Python", "Java", "SQL"]
+      },
+      {
+        "name": "Bob Johnson",
+        "title": "Analyst",
+        "department": "Finance",
+        "salary": 60000,
+        "projects": [
+          {
+            "name": "Financial Forecasting",
+            "description": "Created model to predict revenue growth"
+          },
+          {
+            "name": "Expense Reduction",
+            "description": "Identified and eliminated unnecessary expenses"
+          }
+        ]
+      }
+    ],
+    "company_info": {
+      "name": "ABC Corp",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345",
+      "phone": "(123) 456-7890"
+    }
+  }

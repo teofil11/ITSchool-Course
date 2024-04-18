@@ -1,0 +1,52 @@
+[
+        {
+                "Nume":"Dan",
+                "Prenume":"Stan",
+                "Salariu":1500,
+                "Firma":{
+                        "Nume firma":"ewq",
+                        "CUI":1231,
+                        "Numar angajati":20
+                }
+        },
+        {
+                "Nume":"Ilie",
+                "Prenume":"Ionut",
+                "Salariu":2000,
+                "Firma":{
+                        "Nume firma":"qwe",
+                        "CUI":132,
+                        "Numar angajati":21
+                }
+        },
+        {
+                "Nume":"Ion",
+                "Prenume":"Claudiu",
+                "Salariu":3200,
+                "Firma":{
+                        "Nume firma":"qeew",
+                        "CUI":43532,
+                        "Numar angajati":42
+                }
+        },
+        {
+                "Nume":"Teodorescu",
+                "Prenume":"Teofil",
+                "Salariu":3200,
+                "Firma":{
+                        "Nume firma":"qwewqe",
+                        "CUI":323212,
+                        "Numar angajati":23
+                }
+        },
+        {
+                "Nume":"Teo",
+                "Prenume":"Teo",
+                "Salariu":3211,
+                "Firma":{
+                        "Nume firma":"qweewq",
+                        "CUI":123312,
+                        "Numar angajati":32
+                }
+        }
+]

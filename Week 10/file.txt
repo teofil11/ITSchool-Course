@@ -1,0 +1,11 @@
+Acesta este continutul fisierului
+Ana are mere
+datacurenta.txt
+ex.py
+lista cuvinte.txt
+listafisiere.txt
+numaratoare.txt
+numere.txt
+numerepare.txt
+problema2.txt
+tema.py

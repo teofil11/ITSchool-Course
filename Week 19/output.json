@@ -1,0 +1,308 @@
+[
+    {
+        "marca": "VW",
+        "anFabricatie": 2013,
+        "nrKm": 200000,
+        "itpValid": true
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2018,
+        "nrKm": 19047,
+        "itpValid": true
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2008,
+        "nrKm": 98568,
+        "itpValid": false
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2007,
+        "nrKm": 277662,
+        "itpValid": false
+    },
+    {
+        "marca": "Seat",
+        "anFabricatie": 2012,
+        "nrKm": 104466,
+        "itpValid": true
+    },
+    {
+        "marca": "KIA",
+        "anFabricatie": 2023,
+        "nrKm": 261344,
+        "itpValid": true
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2022,
+        "nrKm": 260694,
+        "itpValid": false
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2020,
+        "nrKm": 96038,
+        "itpValid": false
+    },
+    {
+        "marca": "Audi",
+        "anFabricatie": 2014,
+        "nrKm": 51180,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2008,
+        "nrKm": 198596,
+        "itpValid": false
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2008,
+        "nrKm": 261565,
+        "itpValid": false
+    },
+    {
+        "marca": "Audi",
+        "anFabricatie": 2013,
+        "nrKm": 143309,
+        "itpValid": true
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2007,
+        "nrKm": 171738,
+        "itpValid": false
+    },
+    {
+        "marca": "KIA",
+        "anFabricatie": 2010,
+        "nrKm": 137935,
+        "itpValid": false
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2013,
+        "nrKm": 279903,
+        "itpValid": false
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2022,
+        "nrKm": 154743,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2015,
+        "nrKm": 7666,
+        "itpValid": true
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2021,
+        "nrKm": 50064,
+        "itpValid": true
+    },
+    {
+        "marca": "Seat",
+        "anFabricatie": 2012,
+        "nrKm": 151817,
+        "itpValid": false
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2021,
+        "nrKm": 123144,
+        "itpValid": false
+    },
+    {
+        "marca": "KIA",
+        "anFabricatie": 2015,
+        "nrKm": 166136,
+        "itpValid": false
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2014,
+        "nrKm": 196883,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2017,
+        "nrKm": 245700,
+        "itpValid": false
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2009,
+        "nrKm": 141655,
+        "itpValid": false
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2018,
+        "nrKm": 247059,
+        "itpValid": true
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2009,
+        "nrKm": 92765,
+        "itpValid": true
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2014,
+        "nrKm": 250764,
+        "itpValid": true
+    },
+    {
+        "marca": "Seat",
+        "anFabricatie": 2015,
+        "nrKm": 155936,
+        "itpValid": false
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2013,
+        "nrKm": 268659,
+        "itpValid": false
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2023,
+        "nrKm": 144639,
+        "itpValid": false
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2014,
+        "nrKm": 197143,
+        "itpValid": false
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2023,
+        "nrKm": 227445,
+        "itpValid": false
+    },
+    {
+        "marca": "Audi",
+        "anFabricatie": 2019,
+        "nrKm": 236803,
+        "itpValid": true
+    },
+    {
+        "marca": "Seat",
+        "anFabricatie": 2017,
+        "nrKm": 20190,
+        "itpValid": true
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2013,
+        "nrKm": 160404,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2007,
+        "nrKm": 295640,
+        "itpValid": false
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2023,
+        "nrKm": 197262,
+        "itpValid": true
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2023,
+        "nrKm": 149975,
+        "itpValid": true
+    },
+    {
+        "marca": "KIA",
+        "anFabricatie": 2023,
+        "nrKm": 4156,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2016,
+        "nrKm": 125843,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2017,
+        "nrKm": 258107,
+        "itpValid": true
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2022,
+        "nrKm": 24111,
+        "itpValid": false
+    },
+    {
+        "marca": "Ford",
+        "anFabricatie": 2015,
+        "nrKm": 225898,
+        "itpValid": false
+    },
+    {
+        "marca": "Dacia",
+        "anFabricatie": 2021,
+        "nrKm": 10889,
+        "itpValid": true
+    },
+    {
+        "marca": "KIA",
+        "anFabricatie": 2011,
+        "nrKm": 264839,
+        "itpValid": true
+    },
+    {
+        "marca": "Audi",
+        "anFabricatie": 2008,
+        "nrKm": 200158,
+        "itpValid": false
+    },
+    {
+        "marca": "Seat",
+        "anFabricatie": 2016,
+        "nrKm": 280302,
+        "itpValid": true
+    },
+    {
+        "marca": "Renault",
+        "anFabricatie": 2022,
+        "nrKm": 142670,
+        "itpValid": false
+    },
+    {
+        "marca": "Audi",
+        "anFabricatie": 2023,
+        "nrKm": 104244,
+        "itpValid": false
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2022,
+        "nrKm": 261982,
+        "itpValid": true
+    },
+    {
+        "marca": "VW",
+        "anFabricatie": 2023,
+        "nrKm": 116372,
+        "itpValid": true
+    }
+]

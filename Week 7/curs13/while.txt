@@ -1,0 +1,5 @@
+test3test1test2test3& C:/Python39/python.exe e:/Interview/curs13/curs13.pytest1
+test2
+test3
+leontin a facut problema
+& C:/Python39/python.exe e:/Interview/curs13/curs13.py

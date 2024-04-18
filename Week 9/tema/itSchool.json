@@ -1,0 +1,31 @@
+{
+    "Cursanti":[
+        {
+            "nume": "Teodorescu",
+            "prenume": "Teofil"
+        },
+        {
+            "nume": "Agoston",
+            "prenume": "Robert"
+        },
+        {
+            "nume": "Bologa",
+            "prenume": "Ionut"
+        },
+        {
+            "nume": "Muntean",
+            "prenume": "Paul"
+        },
+        {
+            "nume": "Angiu",
+            "prenume": "Natalia"
+        },
+        {
+            "nume": "Grecu",
+            "prenume": "Andreea"
+        }
+    ],
+    "zile_curs": ["Luni","Joi"],
+    "trainer": "Badea Mihai"
+
+}

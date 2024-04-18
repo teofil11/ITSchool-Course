@@ -1,0 +1,31 @@
+[
+    {
+        "nume":"Ionut",
+        "prenume":"Mihai",
+        "prezenta":30
+    },
+    {
+        "nume":"Popescu",
+        "prenume":"Virgil",
+        "prezenta":20,
+        "cascaDeProtectie":false
+    },
+    {
+        "nume":"Stefan",
+        "prenume":"Florin",
+        "prezenta":50,
+        "adidasiMisto":true,
+        "note":[
+            {"geografie":10},
+            {"istorie":5},
+            {
+                "optionale":
+                {
+                    "matematiciSpeciale":10,
+                    "sport":10
+                }
+            }
+        ]
+
+    }
+    ]
